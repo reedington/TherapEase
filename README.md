@@ -16,9 +16,9 @@ Welcome to TherapEase, a cutting-edge mental health community platform designed 
 
 To run TherapEase locally, follow these steps:
 
-1. Clone the repository: git clone https://github.com/your-username/therapease.git
+1. Clone the repository: git clone https://github.com/your-username/TherapEase.git
 
-2. Navigate to the project directory: cd therapease
+2. Navigate to the project directory: cd TherapEase
 
 3. Install dependencies: npm install
 
