@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "328246897589",
+    "project_id": "therapease-37635",
+    "storage_bucket": "therapease-37635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328246897589:android:609c9aa24710654a4507fc",
+        "android_client_info": {
+          "package_name": "org.mobile.therapease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328246897589-9ltsu0i5vkkposnnuljl0ettupmh6731.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbjSFw9DSo7l3KmIvZlj_yEmMtgjCBk2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328246897589-9ltsu0i5vkkposnnuljl0ettupmh6731.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328246897589-hul0ou9asc5unabbuv4h8uhbdb3cui8k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.mobile.therapease"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+//main screens
+export './sample/controller.dart';
+export './onboarding/controller.dart';
+export './login/controller.dart';
+export './signup/controller.dart';
+export './otp/controller.dart';
+export './password/controller.dart';
+export './details/controller.dart';
+export './struggle/controller.dart';
+export './main/controller.dart';
+export './intro/controller.dart';
+export './guideline/controller.dart';
+export './community/controller.dart';
+export './resources/controller.dart';
+export './listening/controller.dart';
+export './create_nexus/controller.dart';
